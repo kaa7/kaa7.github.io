@@ -10,14 +10,14 @@ description: "Holidaze"
 people:
 - name: Andrei-Antonio Carapcea
   pic: 0
-  position: Product Owner
+  position: Product Owner & Full Stack Developer
   email: antonio.carapcea@gmail.com
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/carapcea-andrei-antonio/
 - name: Bianca-Ana-Maria Rusu
   pic: 1
-  position: Project Manager
+  position: Project Manager & DevOps
   email: bianca.am.rusu@gmail.com
   social:
     - title: linkedin
