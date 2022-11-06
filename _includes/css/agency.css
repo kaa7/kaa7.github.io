@@ -893,6 +893,9 @@ body {
     background-color: #6930C3 !important;
 }
 
+.color-2 {
+    background-color: #D81E5B !important;
+}
 
 .icon-custom {
     color: #{{ site.data.template.color.primary }};
